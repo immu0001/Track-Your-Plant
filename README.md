@@ -24,6 +24,7 @@ SQLite is used so NO syncing between devides;
 *   Add Firebase RealTime database feature so the data can be synced between devices 
 *   Add + button in plant and choose_work activity so the user can add more type of plants and works
 *   Add Admin SignIn with Firebase Auth
+*
 
 
 ....................

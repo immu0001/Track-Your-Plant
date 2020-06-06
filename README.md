@@ -15,10 +15,12 @@ Android project concerning the Problem faced by the Indian Farmers OR Land Owner
 
 
 At this point the latitude and longitude of the scanned placed or the plant will be stored; currently
-SQLite is used so NO syncing between devides; 
+SQLite is used so NO syncing between devides; <br/>
 
 ## Installation:
+  Install Android Studio from <br/>
 ### Requirements:
+
 ## Future Plans:
 
 *   Add Firebase RealTime database feature so the data can be synced between devices 

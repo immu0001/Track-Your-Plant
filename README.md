@@ -29,5 +29,5 @@ SQLite is used so NO syncing between devides; <br/>
 *
 
 
-.......................
+............................
 

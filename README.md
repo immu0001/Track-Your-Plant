@@ -12,7 +12,7 @@ Android project concerning the Problem faced by the Indian Farmers OR Land Owner
 
 
 4.  Scan the qr code of the plant after the work is done!
-
+....
 
 At this point the latitude and longitude of the scanned placed or the plant will be stored; currently
 SQLite is used so NO syncing between devides; <br/>
